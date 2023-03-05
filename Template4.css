@@ -1,0 +1,159 @@
+.div0{
+    height: 2198px;
+    width: 1508px;
+}
+.div1{
+    border: 1px solid none;
+    height: 2250px;
+    width:304px;
+    float: left;
+    background-color: rgb(34, 110, 97);
+    color: white;
+}
+.div01{
+    height: 250px;
+    width: 268px;
+    padding-left: 30px;
+    line-height: 10px;
+}
+.a{
+    border: 5px solid white;
+    height: 100px;
+    width: 100px;
+    border-radius: 100px;
+    margin-top: 50px;
+}
+.b{
+    height: 100px;
+    width: 100px;
+    border-radius: 100px;
+}
+.c{
+    border: 1px solid none;
+    height: 30px;
+    width: 304px;
+    margin-top: 50px;
+    padding-top: 5px;
+    background-color: rgb(10, 54, 46);
+}
+.c1{
+    border: 1px solid none;
+    height: 30px;
+    width: 260px;
+    margin-top: 10px;
+    padding-top: 5px;
+}
+.c2{
+    border: 1px solid none;
+    height: 30px;
+    width: 260px;
+    margin-top: 50px;
+    padding-top: 5px;
+}
+#a{
+    font-size:25px;
+    color: white;
+    padding-left: 20px;
+    float: left;
+}
+#a1{
+    padding-left: 65px;
+    margin-top: 5px;
+}
+.div2{
+    height: 550px;
+    width: 1204px;
+    float: left;
+}
+.d{
+    height: 550px;
+    width: 1204px;
+    position: absolute;
+}
+.e{
+    height: 120px;
+    width: 1104px;
+    position: absolute;
+    margin-top: 250px;
+    margin-left: 70px;
+    color: white;
+}
+.div3{
+    height: 1660px;
+    width: 1054px;
+    margin-left: 80px;
+    margin-top: 47px;
+    float: left;
+}
+.f{
+    color: grey;
+}
+.f1{
+    color: grey;
+    padding-top: 20px;
+}
+.g{
+    height: 350px;
+    width: 1054px;
+}
+.h{
+    height: 70px;
+    width: 1052px;
+    color: gray;
+}
+.i{
+    border: 0.2px solid gray;
+    height: 1px;
+    width:1052px;
+    background-color: rgb(116, 115, 115);
+}
+.div4{
+    height: 420px;
+    width: 1054px;
+    margin-top: 50px;
+}
+.j{
+    border: 1px solid rgb(253, 253, 253);
+    height: 198px;
+    width: 349.5px;
+    float: left;
+}
+.jj{
+    height: 198px;
+    width: 349.5px;
+}
+.k{
+    border: 1px solid gray;
+    height: 20px;
+    width: 328.9px;
+}
+.k1{
+    border: 1px solid gray;
+    height: 20px;
+    width: 328.9px;
+    margin-left: 20px;
+}
+.k2{
+    border: 1px solid black;
+    height: 200px;
+    width: 1047px;
+    margin-top: 20px;
+}
+.k3{
+    border: 1px solid black;
+    height: 40px;
+    width: 200px;
+    margin-top: 20px;
+    color: white;
+    background-color: rgb(14, 14, 105);
+    margin-top: 10px ;
+}
+.kk{
+    height: 320px;
+    width: 1052px;
+}
+.l{
+    text-align: center;
+    color: gray;
+}
+
